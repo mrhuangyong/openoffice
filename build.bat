@@ -1,0 +1,1 @@
+docker build -t mrhua382812/openoffice:4.1.5-ubuntu-2004 .
